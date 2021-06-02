@@ -1,4 +1,4 @@
-# c-auto-test-driver-gen
+# Test Driver Generator for C
 ## Demo
 https://user-images.githubusercontent.com/20037035/120407901-f0ed8a80-c388-11eb-89fd-2c7562e13892.mov
 
